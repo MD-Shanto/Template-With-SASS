@@ -1,0 +1,24 @@
+/* Custom Font Form Online */
+@import url("https://fonts.googleapis.com/css?family=Nunito:400,400i,600,600i&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Aldrich&display=swap");
+/* Custom Font Form Online */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  overflow-x: hidden;
+  text-rendering: optimizeLegibility;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+/*# sourceMappingURL=style.css.map */
